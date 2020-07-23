@@ -9,8 +9,8 @@
 
 Запуск контейнера из образа
 
-![1](screenshots/docker-hw1.png)
+![1](Screenshots/docker-hw1.png)
 
 Проверка работоспособности
 
-![2](screenshots/docker-hw2.png)
+![2](Screenshots/docker-hw2.png)
